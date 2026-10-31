@@ -64,4 +64,4 @@ nyc-yellow-taxi-analysis-2025/
 
 ## Key Takeaways
 
-This project demonstrates the use of distributed
+This project demonstrates the use of distributed data processing and SQL to analyze a large real-world dataset. The findings provide insight into NYC taxi demand patterns across months, weekdays, and hours, as well as the city's most frequently travelled routes.
