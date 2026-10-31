@@ -1,4 +1,3 @@
-# nyc-yellow-taxi-analysis-2025
 # NYC Yellow Taxi Trip Analysis (2025)
 
 Exploratory data analysis of New York City's 2025 Yellow Taxi trip data using **Databricks and PySpark**.
